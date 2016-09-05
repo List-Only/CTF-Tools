@@ -27,11 +27,11 @@ A tool for factoring integers. Very useful for challenges involving RSA and RSA-
 # Forensics
 Tools for forensic challenges.
 
-### binwalk (Kali/Linux)
+### Binwalk (Kali/Linux)
 [Link](http://binwalk.org/).
 A tool for analyzing binaries. Able to identify different files in a binary.
 
-### file utility (Kali/Linux)
+### File utility (Kali/Linux)
 A common Linux utility able to identify many kinds of files.
 
 ### Foremost (Kali/Linux)
@@ -72,6 +72,10 @@ A tool for hiding and extracting messages in images using certain algorithms. Lo
 [Link](https://github.com/luca-m/lsb-toolkit).
 A collection of python utilities for analyzing an image for LSB.
 
+### Steghide (Linux)
+[Link](http://steghide.sourceforge.net/)
+A Steganography tool able to hide messages in a variety of files.
+
 # Web
 Tools for web challenges
 
@@ -83,6 +87,6 @@ A large suite of tools for web recon and vulnerability scanning and exploit. Par
 [Link](https://mxtoolbox.com/).
 A website with a bunch of tools for analyzing a website. Tools include dns lookup, reverse lookup, and basic port scanning.
 
-### sqlmap (Kali/Linux)
+### Sqlmap (Kali/Linux)
 [Link](http://sqlmap.org/).
 [Pronounced Sequel-Map](https://english.stackexchange.com/questions/7231/how-is-sql-pronounced). A very powerful SQL injection tool. Extremely useful for non-blind SQLi.
