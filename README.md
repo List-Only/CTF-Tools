@@ -48,3 +48,15 @@ A tool for hiding and extracting messages in images using certain algorithms. Lo
 
 # Web
 Tools for web challenges
+
+### Burp (Kali/Linux)
+[Link](https://portswigger.net/burp/)
+A large suite of tools for web recon and vulnerability scanning and exploit. Particularly useful for spidering and fuzzing.
+
+### MXToolBox (Website)
+[Link](https://mxtoolbox.com/)
+A website with a bunch of tools for analyzing a website. Tools include dns lookup, reverse lookup, and basic port scanning.
+
+### sqlmap (Kali/Linux)
+[Link](http://sqlmap.org/)
+[Pronounced Sequel-Map](https://english.stackexchange.com/questions/7231/how-is-sql-pronounced). A very powerful SQL injection tool. Extremely useful for non-blind SQLi.
