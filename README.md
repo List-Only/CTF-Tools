@@ -24,6 +24,20 @@ A website with a bunch of tools for solving basic ciphers.
 [Link](https://sourceforge.net/projects/yafu/)
 A tool for factoring integers. Very useful for challenges involving RSA and RSA-like algorithms.
 
+# Forensics
+Tools for forensic challenges.
+
+### binwalk (Kali/Linux)
+[Link](http://binwalk.org/)
+A tool for analyzing binaries. Able to identify different files in a binary.
+
+### file utility (Kali/Linux)
+A common Linux utility able to identify many kinds of files.
+
+### Foremost (Kali/Linux)
+[Link](http://foremost.sourceforge.net/)
+A file carver. Able to extract many different kinds of files from an image.
+
 # Reverse Engineering
 Tools for Reverse Engineering challenges
 
@@ -53,6 +67,10 @@ Tools for solving Steganography challenges.
 ### Digital Invisible Ink Toolkit (Windows/Linux)
 [Link](http://diit.sourceforge.net/)
 A tool for hiding and extracting messages in images using certain algorithms. Loved by [NCL](http://www.nationalcyberleague.org/) and [Metropolis](http://cyberskyline.com/metropolis-2016/).
+
+### LSB Toolkit
+[Link](https://github.com/luca-m/lsb-toolkit)
+A collection of python utilities for analyzing an image for LSB.
 
 # Web
 Tools for web challenges
