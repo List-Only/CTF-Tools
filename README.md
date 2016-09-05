@@ -8,6 +8,10 @@ Tools for Cryptographic challenges
 [Link](https://sites.google.com/site/cryptocrackprogram/)
 A Windows tool for solving many basic ciphers. Supports many forms of substitution and transposition ciphers. Can analyze a ciphertext and guess what cipher was used to generate it.
 
+### John the Ripper (Kali/Linux)
+[Link](http://openwall.com/john/)
+A tool for cracking password hashes. Has functionality for wordlists, bruteforce, and masks. The [Jumbo Patch](https://github.com/magnumripper/JohnTheRipper) also has tools for zip files and PDF's.
+
 ### quipquip (Website)
 [Link](http://quipqiup.com/)
 A website that can solve simple substitution ciphers.
@@ -15,6 +19,10 @@ A website that can solve simple substitution ciphers.
 ### Rumkin (Website)
 [Link](http://rumkin.com/tools/cipher/)
 A website with a bunch of tools for solving basic ciphers.
+
+### Yafu (Windows)
+[Link](https://sourceforge.net/projects/yafu/)
+A tool for factoring integers. Very useful for challenges involving RSA and RSA-like algorithms.
 
 # Reverse Engineering
 Tools for Reverse Engineering challenges
